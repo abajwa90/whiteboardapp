@@ -1,5 +1,5 @@
-# whiteboard tool
-This README file is for my whiteboard tool made with Python and Tkinter.
+# whiteboard app
+This README file is for my whiteboard app made with Python and the Tkinter library.
 
 #### Future features
 - more pen sizes
